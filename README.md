@@ -2,4 +2,4 @@ if you clicked in this profile with the interest in my avatar, here's where you 
 
 avatar by shnva: https://twitter.com/shnva06ka
 
-source: https://danbooru.donmai.us/posts/3209735?q=shnva+hakurei_reimu+
+source: https://cdn.donmai.us/original/7c/38/__hakurei_reimu_touhou_drawn_by_shnva__7c38bcca3dc6d717ebfcc362c4884205.png
