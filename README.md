@@ -2,3 +2,5 @@ if you clicked in this profile with the interest in my avatar, here you can know
 
 awesome avatar by @shnva: https://twitter.com/shnva06ka<br />
 source: https://danbooru.donmai.us/posts/3209735?q=hakurei_reimu+shnva
+
+Menlo is the best font and OneDark is the best theme
