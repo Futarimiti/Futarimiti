@@ -1,4 +1,4 @@
-[![Fut's GitHub stats](https://github-readme-stats.vercel.app/api?username=Futarimiti)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Futarimiti&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 if you clicked in this profile with the interest in my avatar, here you can know more about Reimu: https://en.moegirl.org.cn/Reimu_Hakurei
 
