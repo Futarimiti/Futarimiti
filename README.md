@@ -1,6 +1,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Futarimiti&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<center>
 <img src="https://img.shields.io/badge/neovim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
+</center>
 
 if you clicked in this profile with the interest in my avatar, here you can know more about Reimu: https://en.moegirl.org.cn/Reimu_Hakurei
 
