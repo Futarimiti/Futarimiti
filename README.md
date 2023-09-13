@@ -2,7 +2,7 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/neovim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
-+
+
 <img src="https://img.shields.io/badge/haskell-%232C2D72.svg?&style=for-the-badge&logo=haskell&logoColor=white"/>
 </p>
 
