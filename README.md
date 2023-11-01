@@ -11,3 +11,5 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Futarimiti&layout=compact"/>
 </p>
+
+I also write Scheme, Idris and Prolog btw but their logos are too niche to be found
