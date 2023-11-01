@@ -5,6 +5,6 @@
 
 <img src="https://img.shields.io/badge/haskell-%232C2D72.svg?&style=for-the-badge&logo=haskell&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/racket-%232C2D72.svg?&style=for-the-badge&logo=racket&logoColor=white&labelColor=F50000&color=blue">
+<img src="https://img.shields.io/badge/racket-%232C2D72.svg?&style=for-the-badge&logo=racket&logoColor=F50000&color=blue">
 </p>
 
