@@ -1,1 +1,1 @@
-i write haskell scheme idris and prolog
+daily nix user
